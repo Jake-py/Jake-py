@@ -88,7 +88,7 @@ A multi-part project exploring a web platform, backend services, database integr
 **Focus:** Web development · Backend · Databases · Android · Application security
 
 <p>
-  <a href="https://alphearea-onrender.com" target="_blank">
+  <a href="https://alphearea.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Alphearea Website" />
   </a>
 </p>
