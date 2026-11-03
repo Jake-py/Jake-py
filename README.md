@@ -81,11 +81,17 @@ My long-term goal is to design, build, deploy, and secure reliable technology sy
 A personal AI agent project exploring conversational AI, local language models, and tools for interacting with files and development workflows.
 
 **Focus:** Python · Linux · Qwen · llama.cpp · WebSockets · Agent architecture
-
 ### Alphearea — Web & Application Ecosystem
+
 A multi-part project exploring a web platform, backend services, database integration, server deployment, and an Android application.
 
 **Focus:** Web development · Backend · Databases · Android · Application security
+
+<p>
+  <a href="https://ТВОЙ-ДОМЕН" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Alphearea Website" />
+  </a>
+</p>
 
 ### RED AI — AI Research
 An experimental project exploring AI system architecture, model integration, and intelligent software.
@@ -131,6 +137,24 @@ I like to understand a system before changing it: its architecture, dependencies
 
 ## Contact
 
+<p align="left">
+  <a href="mailto:jaras3950001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://t.me/Just_Mr_Nikto">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://discord.com/users/red_ice_7">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://github.com/Jake-py">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+- **Email:** jaras3950001@gmail.com
+- **Telegram:** @Just_Mr_Nikto
+- **Discord:** red_ice_7
 - **GitHub:** [@Jake-py](https://github.com/Jake-py)
 - **Location:** Nukus, Uzbekistan
 
